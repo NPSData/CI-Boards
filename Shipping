@@ -1,24 +1,44 @@
 {
   "settingsReloadIntervalMinutes": 1,
-  "fullscreen": false,
-  "autoStart": false,
+  "fullscreen": true,
+  "autoStart": true,
   "lazyLoadTabs": false,
-  "closeExistingTabs": false,
+  "closeExistingTabs": true,
   "websites": [
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
-      "duration": 8,
+      "url": "https://app.powerbi.com/groups/d3370999-cdea-47ec-b959-0360a9b7788b/reports/6c0553b2-5fec-40e9-ba00-e9ebd05ea4bb/ReportSection?experience=power-bi&chromeless=1",
+      "duration": 15,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://www.patreon.com/kevdev",
-      "duration": 8,
+      "url": "https://app.powerbi.com/groups/d3370999-cdea-47ec-b959-0360a9b7788b/reports/6c0553b2-5fec-40e9-ba00-e9ebd05ea4bb/ReportSection79226069dcb18c6e293d?experience=power-bi&chromeless=1",
+      "duration": 15,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
-      "duration": 8,
+      "url": "https://app.powerbi.com/groups/d3370999-cdea-47ec-b959-0360a9b7788b/reports/6c0553b2-5fec-40e9-ba00-e9ebd05ea4bb/ReportSection5f01a00437478b56c15b?experience=power-bi&chromeless=1",
+      "duration": 15,
       "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://app.powerbi.com/groups/d3370999-cdea-47ec-b959-0360a9b7788b/reports/6c0553b2-5fec-40e9-ba00-e9ebd05ea4bb/191b1a252d3a5c187eb2?experience=power-bi&chromeless=1",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://app.powerbi.com/groups/d3370999-cdea-47ec-b959-0360a9b7788b/reports/6c0553b2-5fec-40e9-ba00-e9ebd05ea4bb/b97cfff43b0a21006379?experience=power-bi&chromeless=1",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://app.powerbi.com/groups/d3370999-cdea-47ec-b959-0360a9b7788b/reports/6c0553b2-5fec-40e9-ba00-e9ebd05ea4bb/9e151293da3e0b2c0400?experience=power-bi&chromeless=1",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://newprocesssteel.sharepoint.com/:x:/r/sites/Houston/_layouts/15/Doc.aspx?sourcedoc=%7B351925F4-AB07-4058-8FFB-56ED1C185E80%7D&file=HOUSTON%20SHIPPING%20SIGN-IN.xlsx&action=default&mobileredirect=true&wdsle=0",
+      "duration": 25,
+      "tabReloadIntervalSeconds": 25
     }
   ]
 }
