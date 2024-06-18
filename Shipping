@@ -38,7 +38,7 @@
     {
       "url": "https://newprocesssteel.sharepoint.com/:x:/r/sites/Houston/_layouts/15/Doc.aspx?sourcedoc=%7B351925F4-AB07-4058-8FFB-56ED1C185E80%7D&file=HOUSTON%20SHIPPING%20SIGN-IN.xlsx&action=default&mobileredirect=true&wdsle=0",
       "duration": 25,
-      "tabReloadIntervalSeconds": 25
+      "tabReloadIntervalSeconds": 120
     }
   ]
 }
