@@ -1,0 +1,44 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": true,
+  "websites": [
+    {
+      "url": "https://app.powerbi.com/groups/9f7b17c8-2e2b-4c91-8880-46d9f6ecbdd5/reports/b6dd69dc-f2b4-4998-958f-c97a16d0c893/ReportSection?experience=power-bi&chromeless=1",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 1330
+    },
+    {
+      "url": "https://app.powerbi.com/groups/9f7b17c8-2e2b-4c91-8880-46d9f6ecbdd5/reports/b6dd69dc-f2b4-4998-958f-c97a16d0c893/ReportSection79226069dcb18c6e293d?experience=power-bi&chromeless=1",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 1330
+    },
+    {
+      "url": "https://app.powerbi.com/groups/9f7b17c8-2e2b-4c91-8880-46d9f6ecbdd5/reports/b6dd69dc-f2b4-4998-958f-c97a16d0c893/ReportSection5f01a00437478b56c15b?experience=power-bi&chromeless=1",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 1330
+    },
+    {
+      "url": "https://app.powerbi.com/groups/9f7b17c8-2e2b-4c91-8880-46d9f6ecbdd5/reports/b6dd69dc-f2b4-4998-958f-c97a16d0c893/191b1a252d3a5c187eb2?experience=power-bi&chromeless=1",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 1330
+    },
+    {
+      "url": "https://app.powerbi.com/groups/9f7b17c8-2e2b-4c91-8880-46d9f6ecbdd5/reports/b6dd69dc-f2b4-4998-958f-c97a16d0c893/b97cfff43b0a21006379?experience=power-bi&chromeless=1",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 1330
+    },
+    {
+      "url": "https://app.powerbi.com/groups/9f7b17c8-2e2b-4c91-8880-46d9f6ecbdd5/reports/b6dd69dc-f2b4-4998-958f-c97a16d0c893/9e151293da3e0b2c0400?experience=power-bi&chromeless=1",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 1330
+    },
+    {
+      "url": "https://newprocesssteel.sharepoint.com/:x:/s/Columbus643/EZOBJbkPgOpBquwWKynJqygBRSPYIXNQiF6SJuaUEZXTgw?e=oZVALV&CID=F96805EF-FAB6-49C4-81D8-E22247946991&wdLOR=c3EBDCD26-DA04-440D-8AB1-81201E909EB4&activeCell=%27TVDisplay%27!A1",
+      "duration": 25,
+      "tabReloadIntervalSeconds": 600
+    }
+  ]
+}
